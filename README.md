@@ -39,7 +39,7 @@ SANCTUM_STATEFUL_DOMAINS=localhost,localhost:8000,localhost:8080,127.0.0.1,127.0
 ```
 php artisan tinker
 
-App\User::create(['name'=>'John Doe', 'email'=>'johndoe@example.org', 'password'=>Hash::make('secret')]);
+User::create(['name'=>'John Doe', 'email'=>'johndoe@example.org', 'password'=>Hash::make('secret')]);
 ```
 
 ##### Configurations
