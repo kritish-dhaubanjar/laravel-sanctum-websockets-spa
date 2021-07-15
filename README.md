@@ -1,5 +1,7 @@
 #### Laravel Auth [SPA]
 
+https://user-images.githubusercontent.com/25634165/125825364-60e7e628-7290-4df2-bf6e-cc0a06734ebd.mp4
+
 ```
 composer require laravel/ui
 
