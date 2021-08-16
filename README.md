@@ -173,7 +173,7 @@ php artisan websockets:serve
 npm i laravel-echo pusher-js axios
 ```
 
-```js
+```html
 <script>
 import axios from "axios";
 import Pusher from "pusher-js";
